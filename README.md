@@ -3,3 +3,4 @@ This is a basic register page where you can enter your register details and stor
 Hello Pritesh Bhatiya
 
 Hello How Are You
+Are You From AMD
